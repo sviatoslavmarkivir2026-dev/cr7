@@ -10,3 +10,4 @@ def find_unique(numbers):
 
 test_list = [int(x) for x in input('Введіть послідовність: ').split()]
 print(find_unique(test_list))
+#kobiljon
